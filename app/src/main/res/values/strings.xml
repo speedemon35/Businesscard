@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Businesscard</string>
+    <string name="name">Pastelaria Chafariz</string>
+    <string name="phone">+351 219 750 205</string>
+    <string name="contact">info@chafariz.com</string>
+    <string name="website">http://www.chafariz.com</string>
+    <string name="address">Fonte do Lobo, 105 - Salemas</string>
+    <string name="description">Biggest fresh pastry producers in Portugal</string>
+    <string name="hours">Open hours: 09:00 AM - 18:00 PM</string>
+</resources>
